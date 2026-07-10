@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Mahmud%20Wasiq&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Wasiq%20Mahmud&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/mahmudwasiq-wq">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Learning+Python%2C+C+%26+C%2B%2B;Exploring+Frontend+with+HTML;Building+with+ChatGPT%2C+Claude+%26+Gemini" alt="Typing SVG" />
